@@ -1,5 +1,41 @@
 const presentations = [
     {
+        name:"Angular Global Summit - Prepare for the Future: Passkeys",
+        link: "./2024-06-02-slides-passkeys-prepare-for-the-future.html",
+        date: "Jun 02, 2024",
+        thumbnail: "./assets/2024-06-02-slides-passkeys-prepare-for-the-future.png",
+    },
+    {
+        name:"AI for Developers",
+        link: "./2024-04-30-slides-ai-for-developers.html",
+        date: "Apr 30, 2024",
+        thumbnail: "./assets/2024-04-30-slides-ai-for-developers.png",
+    },
+    {
+        name:"Why You Must Support Advanced Content!",
+        link: "./2024-03-31-slides-why-you-must-support-advanced-content.html",
+        date: "Mar 31, 2024",
+        thumbnail: "./assets/2024-03-31-slides-why-you-must-support-advanced-content.png",
+    },
+    {
+        name:"AmsterdamJS - Prepare for the Future: Passkeys",
+        link: "./2024-02-08-slides-passkeys-amsterdamjs.html",
+        date: "Feb 08, 2024",
+        thumbnail: "./assets/2024-02-08-slides-passkeys-amsterdamjs.png",
+    },
+    {
+        name: "Prepare for the Future: Passkeys",
+        link: "./2023-11-04-slides-passkeys.html",
+        date: "Nov 04, 2023",
+        thumbnail: "./assets/2023-11-04-slides-passkeys.png",
+    },
+    {
+        name: "Dev Challenge - A Deep Dive into Software Engineering Hiring",
+        link: "./2023-06-08-slides-pipeline-to-success-a-deep-dive-into-software-engineering-hiring.html",
+        date: "Jun 08, 2023",
+        thumbnail: "./assets/2023-06-08-slides-pipeline-to-success-a-deep-dive-into-software-engineering-hiring.png",
+    },
+    {
         name: "Angularday - Service Workers: Understand and Use",
         link: "./2022-09-13-slides-service-workers-understand-and-use.html",
         date: "Sep 13, 2022",
